@@ -1,9 +1,7 @@
 // 10) Write a program to demonstrate use of any one Adapter class
 
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
+import java.awt.event.*;
+import javax.swing.*;
 
 public class A110  extends AFrame {
     

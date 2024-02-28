@@ -1,3 +1,5 @@
+// 7) Write a JDBC program that will use Scrollable Result set to retrieve
+// data from the database
 package Assingment_2;
 
 import java.sql.*; 

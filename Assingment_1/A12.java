@@ -1,4 +1,4 @@
-// ) Write a program to demonstrate URL class
+//  2 ) Write a program to demonstrate URL class
 
 import java.net.*;  
 

@@ -1,9 +1,9 @@
+// 1) Write a simple JDBC program which will retrieve a data from
+// Database
 
 package Assingment_2;
 
-import java.sql.ResultSet;
-
-import java.sql.Connection;
+import java.sql.*;
 
 public class A21 {
 

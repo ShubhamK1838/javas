@@ -1,7 +1,4 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.io.PrintStream;
+import java.io.*; 
 import java.net.*;
 
 // ) Write a java socket programming in which client sends a text and server receives

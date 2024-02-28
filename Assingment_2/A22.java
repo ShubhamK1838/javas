@@ -3,8 +3,7 @@
 
 package Assingment_2;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement; 
+import java.sql.*; 
 
 
 public class A22 {
